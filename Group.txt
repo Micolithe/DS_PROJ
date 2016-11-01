@@ -1,0 +1,5 @@
+Alexander Kronish & Lindsay Dale
+Data Structures 
+SCCC - Spring 2016
+
+dist/ElevatorProject.jar is the file to run
